@@ -1,4 +1,6 @@
 def process_input(text):
+    print ("a")
+    
     pass
 
 def main():
