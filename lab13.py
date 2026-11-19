@@ -1,5 +1,6 @@
 def process_input(text):
-    pass
+    new = text + "-able"
+    return new
 
 def main():
     text = input("Enter a sentence: ")
